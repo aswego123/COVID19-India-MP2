@@ -8,3 +8,4 @@ Machine Learning Models- ARIMA, GMM, CGAN, BERT
 Refrencess-
 1. https://neptune.ai/blog/gan-loss-functions
 2. https://neptune.ai/blog/generative-adversarial-networks-gan-applications
+3. CGAN- https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_07_5_tabular_synthetic.ipynb

@@ -4,3 +4,7 @@ COVID19- Data analytics and deep learning work for covid India dataset
 Keywords: COVID-19, machine learning, data analytics, time series forecasting, healthcare, government.
 
 Machine Learning Models- ARIMA, GMM, CGAN, BERT
+
+Refrencess-
+1. https://neptune.ai/blog/gan-loss-functions
+2. https://neptune.ai/blog/generative-adversarial-networks-gan-applications
